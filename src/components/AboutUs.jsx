@@ -3,19 +3,19 @@ const people = [
     name: 'Pablo',
     role: 'Diseno industrial, producto y ejecucion',
     bio: 'Disenador industrial, inquieto por naturaleza y enfocado en transformar ideas en productos reales. Fundo su propio estudio de diseno y produccion industrial, que luego vendio, y durante los ultimos cinco anos lidero un area creativa vinculada a construccion, desarrollos y obra. Su mirada mezcla diseno, negocio y ejecucion, con inspiracion en la logica de los Imagineers de Disney: imaginar, disenar y hacer que las cosas sucedan.',
-    image: '/team/pablo.jpg',
+    image: '/team/pablo.jpeg',
   },
   {
     name: 'Jorge',
     role: 'Tecnica, produccion y procesos',
     bio: 'Es el perfil tecnico-productivo del equipo. Viene del mundo de Sacoa, donde trabajo en fabricacion de fichines, videojuegos y soluciones fisicas que tenian que funcionar todos los dias, con usuarios reales. Tiene una gran capacidad para ordenar procesos, entender proveedores, resolver fabricacion, coordinar logistica y convertir una idea en algo producible, eficiente y concreto.',
-    image: '/team/jorge.jpg',
+    image: '/team/jorge.jpeg',
   },
   {
     name: 'Fede',
     role: 'Ingenieria, software y plataformas',
     bio: 'Ingeniero en Sistemas y especialista en software, con experiencia en gaming, desarrollo y plataformas digitales. Es quien piensa como hacer que las ideas funcionen desde adentro: sitios web, sistemas, microtransacciones, produccion digital y escalabilidad. Su mirada combina logica tecnica, experiencia de usuario y pensamiento de juego, clave para que cada producto no solo exista, sino que tambien pueda crecer.',
-    image: '/team/fede.jpg',
+    image: '/team/fede.jpeg',
   },
 ]
 

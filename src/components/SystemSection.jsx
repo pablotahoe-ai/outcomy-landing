@@ -18,7 +18,7 @@ export default function SystemSection() {
         <div className="relative">
           <div className="absolute inset-8 bg-brand-blue/20 blur-3xl rounded-full" />
           <img
-            src="/solutions.jpg"
+            src="/solutions.png"
             alt="Laboratorio Outcomy: problemas reales, IA, software, hardware y soluciones concretas"
             className="relative w-full drop-shadow-[0_30px_70px_rgba(0,0,0,0.35)] [mask-image:linear-gradient(to_right,transparent_0%,black_9%,black_91%,transparent_100%),linear-gradient(to_bottom,transparent_0%,black_9%,black_91%,transparent_100%)] [mask-composite:intersect] [-webkit-mask-image:linear-gradient(to_right,transparent_0%,black_9%,black_91%,transparent_100%),linear-gradient(to_bottom,transparent_0%,black_9%,black_91%,transparent_100%)] [-webkit-mask-composite:source-in]"
           />

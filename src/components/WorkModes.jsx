@@ -5,25 +5,25 @@ const cards = [
   {
     title: 'Micro apps',
     description: 'Soluciones especificas para tareas concretas.',
-    image: '/work-modes/micro-apps.jpg',
+    image: '/work-modes/micro-apps.png',
     Icon: LayoutGrid,
   },
   {
     title: 'Plataforma interactiva',
     description: 'Cambios minimos, tokens mensuales y herramientas que evolucionan con vos.',
-    image: '/work-modes/agentes-ia.jpg',
+    image: '/work-modes/agentes-ia.png',
     Icon: BrainCircuit,
   },
   {
     title: 'Hardware + software',
     description: 'Dispositivos fisicos conectados a experiencias digitales.',
-    image: '/work-modes/hardware-software.jpg',
+    image: '/work-modes/hardware-software.png',
     Icon: Cpu,
   },
   {
     title: 'Co-creacion',
     description: 'Desarrollamos ideas junto a personas y empresas, desde concepto hasta impacto.',
-    image: '/work-modes/co-creacion.jpg',
+    image: '/work-modes/co-creacion.png',
     Icon: Users,
   },
 ]
